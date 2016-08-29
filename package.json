@@ -1,0 +1,27 @@
+{
+  "name": "examples-hub-react",
+  "version": "1.0.0",
+  "description": "App to organize JS examples",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tabares/examples-hub-react.git"
+  },
+  "keywords": [
+    "JETS"
+  ],
+  "author": "José Emmanuel Tabares Sotelo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tabares/examples-hub-react/issues"
+  },
+  "homepage": "https://github.com/Tabares/examples-hub-react#readme",
+  "devDependencies": {
+    "babel-loader": "^6.2.5",
+    "http-server": "^0.9.0",
+    "webpack": "^1.13.2"
+  }
+}
