@@ -1,5 +1,5 @@
 
-const athletes = [
+const frameworks = [
   {
     'id': 'react',
     'name': 'React',
