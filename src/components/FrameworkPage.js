@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router';
 import NotFoundPage from './NotFoundPage';
-import FrameworksMenu from './FrameworksMenu';
+import FrameworksMenu from './FrameworkMenu';
 import Example from './Example';
 import Framework from './Framework';
 import frameworks from '../data/frameworks';

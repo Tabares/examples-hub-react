@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router';
-import frameworks from '../data/athletes';
+import frameworks from '../data/frameworks';
 
 export default class FrameworksMenu extends React.Component {
   render() {
